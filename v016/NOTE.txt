@@ -1,0 +1,1 @@
+v0.16: glifi degli stimoli Atkinson Hyperlegible Regular 1.02, contorni SVG incorporati; nessun font di sistema richiesto per gli stimoli. Interfaccia e diciture Arial. Copyright Braille Institute of America, font SIL OFL 1.1. Calibrazione e geometria invariate. Esportazione manuale; nessuna persistenza. Correzione cumulativa, non separata. Collaudo iPad necessario.
